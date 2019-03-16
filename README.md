@@ -1,6 +1,7 @@
 # business_app
 
-A new Flutter project.
+![Alt Text](https://i-h1.pinimg.com/originals/2c/80/04/2c8004d8f035a1c00ab5dbfe6c581ca3.png)
+![Alt Text](https://i.pinimg.com/originals/36/e9/fb/36e9fb877fdee4eb1cc50dcc1bb4aa3f.gif)
 
 ## Getting Started
 
