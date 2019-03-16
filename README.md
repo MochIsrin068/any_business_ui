@@ -1,10 +1,9 @@
 # Any business app
 
 ![Alt Text](https://i-h1.pinimg.com/originals/2c/80/04/2c8004d8f035a1c00ab5dbfe6c581ca3.png)
-
-
-
-![Alt Text](https://i.pinimg.com/originals/36/e9/fb/36e9fb877fdee4eb1cc50dcc1bb4aa3f.gif)
+![Alt Text](https://i.pinimg.com/originals/2c/e5/81/2ce581e1ac9c562774f774b007c79cd6.png)
+![Alt Text](https://i.pinimg.com/originals/44/40/bf/4440bf9d2f31e8ba7b1867b70c5cdae9.png)
+![Alt Text](https://i.pinimg.com/originals/b4/55/a3/b455a3af0d00d62dc745ed64893df064.png)
 
 ## Getting Started
 
